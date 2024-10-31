@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CustomerFeedbackSystem.Controllers.FeedbackController",
+    "Method": "SubmitFeedback",
+    "RelativePath": "api/Feedback",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "feedback",
+        "Type": "CustomerFeedbackSystem.Model.Feedback",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
